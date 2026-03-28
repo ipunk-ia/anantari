@@ -56,7 +56,7 @@ export default function AnantariLanding() {
     { name: 'Kids Meal', img: 'https://drive.google.com/thumbnail?id=1BQpuD49_sW4KuC5r6asAuPil-pxAaDaU&sz=w800' },
     { name: 'Milk Shake', img: 'https://drive.google.com/thumbnail?id=1BQpuD49_sW4KuC5r6asAuPil-pxAaDaU&sz=w800' },
     { name: 'Rice Dish', img: 'https://drive.google.com/thumbnail?id=1uvMcf5D-tWMQ8RHE7_PfhjxtOQTyrL8V&sz=w800' },
-    { name: 'Fresh Salad', img: 'https://drive.google.com/thumbnail?id=1rkRlxj-Hf4xuNIAhVGvJ7ImuDAoBkOyB&sz=w800' },
+    { name: 'Fresh Salad', img: 'https://drive.google.com/thumbnail?id=110L6sucrFbw3SBd1PvhdeMzbscJ4SovVO&sz=w800' },
   ];
 
   const galleryImages = [
